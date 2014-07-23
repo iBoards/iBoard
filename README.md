@@ -9,7 +9,7 @@ This project provide minimal arm cortex board and stacked module,like W32U4, GSM
 Interface Spec
 ==============
 
-This project provide LPC1768 core board. It's expand to other arm board later.
+This project provide STM32F4 core board. It's expand to other arm board later.
 It's provide as much as possible compatitable interfaces with module in the world.
 
 1. ardunio

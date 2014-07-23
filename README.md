@@ -18,11 +18,11 @@ http://www.arduino.cc/
 2. BoosterPack
 http://www.ti.com.cn/ww/launchpad/boosterpacks.html
 
-3.microdunio
+3. microdunio
 http://microduino.cc/
 
-4.beaglebone
+4. beaglebone
 http://beagleboard.org
 
-5.Raspberry Pi
+5. Raspberry Pi
 www.raspberrypi.org
